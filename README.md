@@ -5,7 +5,7 @@ Hi! My name is Umaima Manzoor from BCS-1J. I have done my A-Levels from Beaconho
 ## My Hobbies:
 - Reading books
   
- ![1](https://github.com/user-attachments/assets/62f77781-2137-47dd-9aae-e4dd2ea476cf)
+ ![1](https://github.com/user-attachments/assets/62f77781-2137-47dd-9aae-e4dd2ea476cf | width=100)
 
 - Watching movies
   
